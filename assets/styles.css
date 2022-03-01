@@ -7,9 +7,33 @@ body {
     position: relative;
     min-height: 100vh;
     width: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
-question {
-    max-width: 100%;
+.question-container {
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.card{
+    /* margin-top: 100px; */
+    margin-bottom: 0.5rem;
+    border-color: transparent;
+}
+.card-body.form-control{
+    max-width: 500px;
+}
+.card img {
+    /* width: 50%; */
+    /* size: 500px; */
+    /* height: auto;
+    justify-content: center; */
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.generate{
+    margin-bottom: 10px;
 }
