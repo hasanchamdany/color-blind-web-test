@@ -24,10 +24,6 @@ body {
     max-width: 500px;
 }
 .card img {
-    /* width: 50%; */
-    /* size: 500px; */
-    /* height: auto;
-    justify-content: center; */
 
     display: block;
     margin-left: auto;
@@ -35,5 +31,5 @@ body {
     width: 30%;
 }
 .generate{
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
