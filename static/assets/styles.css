@@ -43,6 +43,18 @@ body {
   text-align: center;
   background: rgb(206, 206, 206);
 }
+section {
+  background: rgb(105, 232, 255);
+}
+.heroBox {
+  width: 100%;
+  height: 100vh;
+  background: -webkit-linear-gradient(#9900f2, #05e6e6);
+}
+#tittle {
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
 footer {
   display: block;
   position: absolute;
